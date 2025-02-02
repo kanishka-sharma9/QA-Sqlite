@@ -14,5 +14,5 @@
 
 # Known limitations or suggestions for improvement.
   1. Use auto prompting to improve DB understanding by the assistant, and to account for any future changes in the schema.
-  2. use HUB for better understanding and less hallucinations.
+  2. use HUB for better contextual understanding and less hallucinations.
   3. Use agents to execute all subprocesses simultaneously.
