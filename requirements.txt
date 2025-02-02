@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain_groq
+sqlalchemy
+ipykernel
+langchain_community
+langchain_ollama
